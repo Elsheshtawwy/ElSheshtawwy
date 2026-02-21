@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Full-Stack+Software+Engineer;Flutter+and+.NET+Architect;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
+<img src="https://media.tenor.com/HMjB83uXNMAAAAAj/typing-cat.gif" width="150" />
 
-<h3>🚀 Architecting Scalable Systems & High-Performance Mobile Experiences</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy+👋;Full-Stack+Software+Engineer;Professional+Bug+Creator+(and+fixer);Powered+by+Caffeine+and+Panic" alt="Typing SVG" />
+
+<h3>🚀 Turning Coffee Into Scalable Code & High-Performance Apps</h3>
 
 <p>
   <a href="mailto:badrelsistawy@gmail.com">
@@ -18,34 +20,34 @@
 
 ---
 
-# 🧠 About Me
+# 🧠 About Me (The Human Behind the Code)
 
-Full-Stack Engineer specialized in bridging **enterprise backend architectures (.NET Core)** with **high-performance Flutter applications**.
+Full-Stack Engineer specialized in bridging **enterprise backend architectures (.NET Core)** with **high-performance Flutter applications**. Basically, I tell computers what to do, and sometimes they actually listen! 😅
 
-I design and build production-grade systems across **Mobile, Desktop, and Web**, focusing on scalability, maintainability, and real-world impact.
+When I am not deep in code or fixing things that I broke yesterday, you can probably catch me 3-starring bases in **Clash of Clans**, or stressing over a **Real Madrid** match. ¡Hala Madrid! ⚽👑
 
-### 🔹 What I Bring
-- 🏗 **Clean Architecture & Domain-Driven Design (DDD)**
-- ⚙️ **End-to-End System Engineering** (API → DB → UI)
-- 🎯 **Performance-Focused** Mobile Development
-- 🎨 **Strong UI/UX Sensibility** (Figma to Production)
+### 🔹 What I Actually Do
+- 🏗 **Clean Architecture:** Because spaghetti code is a nightmare.
+- ⚙️ **End-to-End Systems:** From the database query to the final pixel on your screen.
+- 🎯 **Mobile Development:** Making apps so smooth you'd think it's magic.
+- 🎨 **UI/UX Design:** Because an ugly app is a sad app.
 
 ---
 
-# 🛠 Core Tech Stack
+# 🛠 Core Tech Stack (My Weapons of Choice)
 
-### 📱 Mobile & Cross-Platform
+### 📱 Mobile Frontlines
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/GetX-FF5722?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & Sorcery
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 
-### 💾 Databases & Infrastructure
+### 💾 Databases
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects (Proof I write actual code)
 
 ## ⚖️ Public Prosecution Automation System
 **Full Stack Developer** `Flutter (Mobile + Windows)` • `ASP.NET Core Web API` • `SQL Server`  
@@ -64,32 +66,34 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 
 > Built a custom desktop solution to manage HR and inventory operations. Eliminated manual data entry errors by automating the printing of official statements and financial vouchers.
 
-## ✈️ Zarda Travel Corporate CMS
-**Frontend & Backend Developer** `Vue.js` • `Supabase`  
-
-> Developed a dynamic marketing platform with a fully customizable Admin Dashboard, enabling non-technical staff to manage travel offers instantly without code changes.
-
 ---
 
 # 🧩 Engineering Philosophy
 
-> *"Great software scales technically and feels effortless to the user."*
+> *"A user interface is like a joke. If you have to explain it, it’s not that good."*
 
-- **Full-Stack Thinking:** I design systems from the database schema up to the final pixel.  
-- **Architecture Before Code:** Solid foundations prevent future technical debt.  
-- **UX is not optional:** A powerful system is useless if users struggle to navigate it.  
-- **Maintainability > Quick Hacks:** Writing code that the next developer can easily understand.  
+- **"It works on my machine"** is not a valid architectural pattern.
+- **Architecture Before Code:** Solid foundations prevent future tears.
+- **Maintainability > Quick Hacks:** Writing code that the next developer (or me in 6 months) won't curse at.
 
 ---
 
-# 📊 GitHub Analytics & Activity
+<h1 align="center">🐍 My Pet Snake (Feeding on my Commits)</h1>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+# 📊 GitHub Analytics (The Nerd Stats)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsheshtawwy&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsheshtawwy&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br>
@@ -108,6 +112,6 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 
 <div align="center">
 
-### ✨ Open to building enterprise-grade mobile & backend systems ✨
+### ✨ Ready to build something awesome? Hit me up! ✨
 
 </div>
