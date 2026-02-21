@@ -107,11 +107,8 @@ When I'm not deep into Clean Architecture, arguing with the compiler, or trouble
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsheshtawwy&theme=tokyonight" alt="Profile Details" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elsheshtawwy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph" />
-</div>
-
 <br>
 
 <div align="center">
-### ✨ Checkmate bugs and write clean code. Let's build something awesome! ✨
+### Checkmate bugs and write clean code. Let's build something awesome! 
 </div>
