@@ -115,5 +115,5 @@ Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-shes
 <br>
 
 <div align="center">
-### ✨ Checkmate bugs and write clean code. Let's build something awesome! ✨
+###  Checkmate bugs and write clean code. Let's build something awesome! 
 </div>
