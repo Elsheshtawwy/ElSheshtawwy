@@ -13,7 +13,7 @@
   <a href="[LinkedIn Profile Link]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="[https://www.chess.com/member/Badr-El-sheshtawy](https://www.chess.com/member/badr_elsheshtawy)">
+  <a href="https://www.chess.com/member/Badr-El-sheshtawy">
     <img src="https://img.shields.io/badge/Chess.com-Challenge%20Me-769656?style=for-the-badge&logo=chess&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Based%20In-Benghazi,%20Libya-FF8C00?style=for-the-badge&logo=googlemaps" />
@@ -29,7 +29,7 @@ I am a Full-Stack Software Engineer bridging **enterprise backend architectures 
 
 When I'm not deep into Clean Architecture, arguing with the compiler, or troubleshooting random Windows errors, you can find me cheering for **Real Madrid** ⚽👑, or analyzing my next move on the chessboard.  
 
-**Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/Badr-El-sheshtawy) ♟️🔥**
+**Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/elsistawy) ♟️🔥**
 
 ### 🔹 What I Do Best
 - 🏗 **Clean Architecture:** Building maintainable and scalable systems because future-me deserves a break.  
