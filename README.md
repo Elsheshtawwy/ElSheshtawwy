@@ -3,6 +3,7 @@
 <img src="https://media.tenor.com/HMjB83uXNMAAAAAj/typing-cat.gif" width="150" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+There!+I+am+Badr+Elsheshtawy;Software+Engineer+%7C+Flutter+Specialist;Building+High-Performance+Mobile+Apps;Backed+by+Solid+Enterprise+Architectures" alt="Typing SVG" />
+
 <h3>🚀 Turning Coffee Into Scalable Code & Native-Feeling Apps</h3>
 
 <p>
@@ -24,20 +25,17 @@
 
 # 🧠 About Me
 
-I am a Software Engineer passionate about **high-performance Flutter applications**. I build robust, scalable mobile and desktop systems that people actually enjoy using—and I fix the bugs I create along the way. 😎
+I am a **Software Engineer specializing in high-performance Flutter applications**, backed by solid enterprise backend architectures (`.NET Core` & `Laravel`). I build robust, scalable mobile and desktop systems that people actually enjoy using—and I fix the bugs I create along the way. 😎
 
-When I'm not deep into Clean Architecture, arguing with the compiler, or troubleshooting random Windows errors, you can find me cheering for **Real Madrid** ⚽👑 or planning my next move on the **chessboard**. ♟️  
+When I'm not deep into Clean Architecture, arguing with the compiler, or troubleshooting random Windows errors, you can find me cheering for **Real Madrid** ⚽👑.
 
-If you ever notice a sudden drop in my GitHub commits, don't worry—I'm probably just lost in a deep chess strategy!  
-
-Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/badr_elsheshtawy) 🔥♟️
-
----
+**Fun Fact:** If you ever notice a sudden drop in my GitHub commits, don't panic—I haven't stopped coding. I'm just deeply invested in analyzing my next move on the chessboard! ♟️  
+**Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/Badr-El-sheshtawy) 🔥**
 
 ### 🔹 What I Do Best
-- 🎯 **Mobile Development (Primary Focus):** Delivering smooth, cross-platform Flutter apps that feel native.  
-- 🏗 **Clean Architecture:** Building maintainable systems because future-me deserves a break.  
-- ⚙️ **End-to-End Systems:** Ensuring beautiful UIs work seamlessly with powerful app logic and integrations.
+- 🎯 **Mobile Development (Primary Focus):** Delivering smooth, cross-platform Flutter apps that feel native.
+- 🏗 **Clean Architecture:** Building maintainable systems because future-me deserves a break.
+- ⚙️ **End-to-End Systems:** Bridging beautiful UIs with powerful backend logics and REST APIs.
 
 ---
 
@@ -115,5 +113,5 @@ Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-shes
 <br>
 
 <div align="center">
-###  Checkmate bugs and write clean code. Let's build something awesome! 
+### ✨ Checkmate bugs and write clean code. Let's build something awesome! ✨
 </div>
