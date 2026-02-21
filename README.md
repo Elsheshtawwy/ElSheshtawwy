@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/HMjB83uXNMAAAAAj/typing-cat.gif" width="150" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy+👋;Full-Stack+Software+Engineer;Professional+Bug+Creator+(and+fixer);Powered+by+Caffeine+and+Panic" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Full-Stack+Software+Engineer;Flutter+and+.NET+Architect;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
 
 <h3>🚀 Turning Coffee Into Scalable Code & High-Performance Apps</h3>
 
