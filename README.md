@@ -82,7 +82,7 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -97,25 +97,11 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 
 </div>
 
----
-
-# 📈 GitHub Activity Graph
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elsheshtawwy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph" />
 </div>
-
-# 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsheshtawwy&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsheshtawwy&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<h1 align="center">🐍 Activity Map</h1>
 
 <div align="center">
   <picture>
@@ -124,6 +110,9 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<br>
+
 <div align="center">
 
 ### ✨ Open to building enterprise-grade mobile & backend systems ✨
