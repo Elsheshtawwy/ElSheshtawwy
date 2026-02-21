@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&width=600&lines=Hi+there,+I'm+Badr+Elsheshtawy+👋;Software+Engineer;Full-Stack+Mobile+Developer;Flutter+%26+.NET+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Badr+Elsheshtawy;Software+Engineer;Full-Stack+Mobile+Developer;Flutter+and+.NET+Specialist" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Architecting Scalable Enterprise Systems & High-Performance Mobile Experiences</h3>
