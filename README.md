@@ -25,12 +25,20 @@
 
 # 🧠 About Me
 
-I am a **Software Engineer specializing in high-performance Flutter applications**, backed by solid enterprise backend architectures (`.NET Core` & `Laravel`). I build robust, scalable mobile and desktop systems that people actually enjoy using—and I fix the bugs I create along the way. 😎
+I am a Software Engineer passionate about **high-performance Flutter applications**. I build robust, scalable mobile and desktop systems that people actually enjoy using—and I fix the bugs I create along the way. 😎
 
-When I'm not deep into Clean Architecture, arguing with the compiler, or troubleshooting random Windows errors, you can find me cheering for **Real Madrid** ⚽👑.
+When I'm not deep into Clean Architecture, arguing with the compiler, or troubleshooting random Windows errors, you can find me cheering for **Real Madrid** ⚽👑 or planning my next move on the **chessboard**. ♟️  
 
-**Fun Fact:** If you ever notice a sudden drop in my GitHub commits, don't panic—I haven't stopped coding. I'm just deeply invested in analyzing my next move on the chessboard! ♟️  
-**Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/Badr-El-sheshtawy) 🔥**
+If you ever notice a sudden drop in my GitHub commits, don't worry—I'm probably just lost in a deep chess strategy!  
+
+Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/badr_elsheshtawy) 🔥♟️
+
+---
+
+### 🔹 What I Do Best
+- 🎯 **Mobile Development (Primary Focus):** Delivering smooth, cross-platform Flutter apps that feel native.  
+- 🏗 **Clean Architecture:** Building maintainable systems because future-me deserves a break.  
+- ⚙️ **End-to-End Systems:** Ensuring beautiful UIs work seamlessly with powerful app logic and integrations.
 
 ### 🔹 What I Do Best
 - 🎯 **Mobile Development (Primary Focus):** Delivering smooth, cross-platform Flutter apps that feel native.
