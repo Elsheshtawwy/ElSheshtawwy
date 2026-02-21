@@ -40,11 +40,6 @@ Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-shes
 - 🏗 **Clean Architecture:** Building maintainable systems because future-me deserves a break.  
 - ⚙️ **End-to-End Systems:** Ensuring beautiful UIs work seamlessly with powerful app logic and integrations.
 
-### 🔹 What I Do Best
-- 🎯 **Mobile Development (Primary Focus):** Delivering smooth, cross-platform Flutter apps that feel native.
-- 🏗 **Clean Architecture:** Building maintainable systems because future-me deserves a break.
-- ⚙️ **End-to-End Systems:** Bridging beautiful UIs with powerful backend logics and REST APIs.
-
 ---
 
 # 🛠 Core Tech Stack
