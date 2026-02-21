@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Full-Stack+Software+Engineer;Flutter+and+.NET+Architect;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Full-Stack+Software+Engineer;Flutter+and+.NET+Architect;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
 
 <h3>🚀 Architecting Scalable Systems & High-Performance Mobile Experiences</h3>
 
@@ -85,30 +85,23 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 # 📊 GitHub Analytics & Activity
 
 <div align="center">
-
-<a href="https://github.com/Elsheshtawwy"><img src="https://github-readme-stats.vercel.app/api?username=Elsheshtawwy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></a>
-<a href="https://github.com/Elsheshtawwy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheshtawwy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsheshtawwy&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsheshtawwy&theme=tokyonight" alt="Top Languages" />
+</div>
 
-<a href="https://github.com/Elsheshtawwy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" /></a>
+<br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elsheshtawwy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <br>
