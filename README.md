@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Full-Stack+Software+Engineer;Flutter+and+.NET+Architect;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Full-Stack+Software+Engineer;Flutter+and+.NET+Architect;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
 
 <h3>🚀 Architecting Scalable Systems & High-Performance Mobile Experiences</h3>
 
@@ -86,14 +86,14 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elsheshtawwy&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Elsheshtawwy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheshtawwy&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Elsheshtawwy)
+<a href="https://github.com/Elsheshtawwy"><img src="https://github-readme-stats.vercel.app/api?username=Elsheshtawwy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></a>
+<a href="https://github.com/Elsheshtawwy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheshtawwy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/Elsheshtawwy)
+<a href="https://github.com/Elsheshtawwy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" /></a>
 
 </div>
 
