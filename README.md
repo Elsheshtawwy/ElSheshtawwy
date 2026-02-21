@@ -2,8 +2,7 @@
 
 <img src="https://media.tenor.com/HMjB83uXNMAAAAAj/typing-cat.gif" width="150" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Software+Engineer+%7C+Flutter+Specialist;Building+High-Performance+Mobile+Apps;Backed+by+Solid+Enterprise+Architectures" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+There!+I+am+Badr+Elsheshtawy;Software+Engineer+%7C+Flutter+Specialist;Building+High-Performance+Mobile+Apps;Backed+by+Solid+Enterprise+Architectures" alt="Typing SVG" />
 <h3>🚀 Turning Coffee Into Scalable Code & Native-Feeling Apps</h3>
 
 <p>
