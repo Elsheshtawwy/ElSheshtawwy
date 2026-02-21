@@ -2,9 +2,9 @@
 
 <img src="https://media.tenor.com/HMjB83uXNMAAAAAj/typing-cat.gif" width="150" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Full-Stack+Software+Engineer;Flutter+and+.NET+Architect;Turning+Coffee+Into+Scalable+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+I+am+Badr+Elsheshtawy;Software+Engineer+%7C+Flutter+Specialist;Building+High-Performance+Mobile+Apps;Backed+by+Solid+Enterprise+Architectures" alt="Typing SVG" />
 
-<h3>🚀 Building High-Performance Apps & Scalable Enterprise Systems</h3>
+<h3>🚀 Turning Coffee Into Scalable Code & Native-Feeling Apps</h3>
 
 <p>
   <a href="mailto:badrelsistawy@gmail.com">
@@ -25,29 +25,33 @@
 
 # 🧠 About Me
 
-I am a Full-Stack Software Engineer bridging **enterprise backend architectures (.NET Core)** with **high-performance Flutter applications**. I build robust, scalable systems that people actually enjoy using—and I fix the bugs I create along the way. 😎  
+I am a **Software Engineer specializing in high-performance Flutter applications**, backed by solid enterprise backend architectures (`.NET Core` & `Laravel`). I build robust, scalable mobile and desktop systems that people actually enjoy using—and I fix the bugs I create along the way. 😎
 
-When I'm not deep into Clean Architecture, arguing with the compiler, or troubleshooting random Windows errors, you can find me cheering for **Real Madrid** ⚽👑, or analyzing my next move on the chessboard.  
+When I'm not deep into Clean Architecture, arguing with the compiler, or troubleshooting random Windows errors, you can find me cheering for **Real Madrid** ⚽👑.
 
-**Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/elsistawy) ♟️🔥**
+**Fun Fact:** If you ever notice a sudden drop in my GitHub commits, don't panic—I haven't stopped coding. I'm just deeply invested in analyzing my next move on the chessboard! ♟️  
+**Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/Badr-El-sheshtawy) 🔥**
 
 ### 🔹 What I Do Best
-- 🏗 **Clean Architecture:** Building maintainable and scalable systems because future-me deserves a break.  
-- ⚙️ **End-to-End Systems:** Crafting everything from complex SQL queries to polished, pixel-perfect UIs.  
-- 🎯 **Mobile Development:** Delivering smooth, cross-platform apps that feel native.  
+- 🎯 **Mobile Development (Primary Focus):** Delivering smooth, cross-platform Flutter apps that feel native.
+- 🏗 **Clean Architecture:** Building maintainable systems because future-me deserves a break.
+- ⚙️ **End-to-End Systems:** Bridging beautiful UIs with powerful backend logics and REST APIs.
 
 ---
 
 # 🛠 Core Tech Stack
 
-### 📱 Mobile & Cross-Platform
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/GetX-FF5722?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+### 📱 Mobile Development
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/GetX-FF5722?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+### 🌐 Frontend Web
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 
 ### ⚙️ Backend & APIs
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
 
 ### 💾 Databases & Infrastructure
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ---
 
@@ -59,6 +63,11 @@ When I'm not deep into Clean Architecture, arguing with the compiler, or trouble
 > Digitized judicial workflows, replacing legacy paper-based processes. Built a secure Mobile App for lawyers and a comprehensive Desktop Dashboard for staff. 
 > 🎓 **Achieved a 4.0/4.0 Distinction Grade.**
 
+## ✈️ Zarda Travel Corporate Portal & CMS
+**Frontend & Backend Developer** — `Vue.js` • `Supabase`  
+
+> Developed a dynamic web platform and a custom Content Management System (CMS) for a leading travel agency. Digitized marketing operations, enabling instant offer updates and dynamic content management.
+
 ## 🎓 AFAQ – Educational Marketplace Ecosystem
 **Lead Developer & Architect** — `Flutter` • `Web Technologies`  
 
@@ -69,16 +78,11 @@ When I'm not deep into Clean Architecture, arguing with the compiler, or trouble
 
 > A location-based discount platform utilizing Clean Architecture and geo-fencing technology to show users deals within their vicinity.
 
-## 🏢 Alneam Administrative & Inventory System
-**Sole Developer** — `Desktop Solutions` • `Database Management`  
-
-> Automated HR and inventory workflows, eliminated manual errors, and generated official statements & financial reports programmatically.
-
 ---
 
 # 🧩 Engineering Philosophy
 
-> *"A user interface is like a joke. If you have to explain it, it’s not good enough."*
+> *"I strictly follow Clean Architecture and SOLID principles. 'Vibe Coding' is exclusively reserved for 3 AM weekend side-projects. 😅"*
 
 - **Architecture Before Code:** Strong foundations prevent headaches later.  
 - **Maintainable Code:** Future-proof solutions > quick hacks.  
