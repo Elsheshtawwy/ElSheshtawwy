@@ -99,6 +99,22 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 
 ---
 
+# 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elsheshtawwy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph" />
+</div>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsheshtawwy&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elsheshtawwy&theme=tokyonight" alt="Top Languages" />
+</div>
+
 <h1 align="center">🐍 Activity Map</h1>
 
 <div align="center">
