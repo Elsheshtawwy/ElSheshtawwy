@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Badr+Elsheshtawy+👋;Software+Engineer;Full-Stack+Mobile+Developer;Flutter+%26+.NET+Specialist" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Badr+Elsheshtawy+👋;Software+Engineer;Full-Stack+Mobile+Developer;Flutter+%26+.NET+Specialist)](https://git.io/typing-svg)
 </div>
 
 <h3 align="center">Architecting Scalable Enterprise Systems & High-Performance Mobile Experiences</h3>
@@ -24,42 +24,27 @@ I am a Computer Science graduate and Full-Stack Software Engineer bridging the g
 
 ## 🛠️ Core Engineering Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📱 Mobile & Cross-Platform</h4>
-      <p>Building responsive, state-driven applications.</p>
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/GetX-%23FF5722.svg?style=flat-square&logo=databricks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & APIs</h4>
-      <p>Architecting secure, scalable backend services.</p>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square" />
-      <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💾 Databases & Infrastructure</h4>
-      <p>Managing relational data and spatial queries.</p>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tools & Design</h4>
-      <p>Streamlining development and user experience.</p>
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 📱 Mobile & Cross-Platform
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-%23FF5722.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+### ⚙️ Backend & APIs
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![REST API](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge)
+
+### 💾 Databases & Infrastructure
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & Design
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -91,29 +76,24 @@ I am a Computer Science graduate and Full-Stack Software Engineer bridging the g
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elsheshtawwy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="190em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheshtawwy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="190em" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elsheshtawwy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Elsheshtawwy)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheshtawwy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)](https://github.com/Elsheshtawwy)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/Elsheshtawwy)
 </div>
 
 ---
 
 ## 🐍 Activity Map
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+*(Note: The Snake Animation requires setting up a GitHub Action. I have commented it out for now so it doesn't show a broken image. We can set it up together next!)*
 
 <p align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+  [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)](https://github.com/Elsheshtawwy)
   <br>
   <b>✨ Open to collaboration on enterprise mobile solutions and innovative backend architectures ✨</b>
 </p>
