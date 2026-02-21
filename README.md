@@ -94,7 +94,17 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 </p>
 
 ---
+---
 
+<h1 align="center">🐍 Activity Map</h1>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <div align="center">
 
 ### ✨ Open to building enterprise-grade mobile & backend systems ✨
