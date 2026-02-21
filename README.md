@@ -84,14 +84,18 @@ I design and build production-grade systems across **Mobile, Desktop, and Web**,
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elsheshtawwy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheshtawwy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elsheshtawwy&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Elsheshtawwy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheshtawwy&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Elsheshtawwy)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/Elsheshtawwy)
+
+</div>
 
 ---
 
