@@ -13,7 +13,7 @@
   <a href="[LinkedIn Profile Link]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.chess.com/member/Badr-El-sheshtawy">
+  <a href="[https://www.chess.com/member/Badr-El-sheshtawy](https://www.chess.com/member/badr_elsheshtawy)">
     <img src="https://img.shields.io/badge/Chess.com-Challenge%20Me-769656?style=for-the-badge&logo=chess&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Based%20In-Benghazi,%20Libya-FF8C00?style=for-the-badge&logo=googlemaps" />
