@@ -82,7 +82,7 @@ When I'm not deep into Clean Architecture, arguing with the compiler, or trouble
 
 # 🧩 Engineering Philosophy
 
-> *"I strictly follow Clean Architecture and SOLID principles. 'Vibe Coding' is exclusively reserved for 3 AM weekend side-projects. 😅"*
+> *"I strictly follow Clean Architecture and SOLID principles. 'Vibe Coding' is exclusively reserved for 3 AM weekend side-projects. "*
 
 - **Architecture Before Code:** Strong foundations prevent headaches later.  
 - **Maintainable Code:** Future-proof solutions > quick hacks.  
