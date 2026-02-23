@@ -57,26 +57,40 @@ When I'm not deep into Clean Architecture, arguing with the compiler, or trouble
 
 # 🚀 Featured Projects
 
-## ⚖️ Public Prosecution Automation System
-**Full Stack Developer (Graduation Project)** — `Flutter (Mobile + Windows)` • `ASP.NET Core Web API` • `SQL Server`  
+## ⚖️ Public Prosecution Automation System (Live)
+**Full Stack Developer (Graduation Project)** — `Flutter (Mobile & Windows)` • `ASP.NET Core Web API` • `SQL Server`  
 
-> Digitized judicial workflows, replacing legacy paper-based processes. Built a secure Mobile App for lawyers and a comprehensive Desktop Dashboard for staff. 
-> 🎓 **Achieved a 4.0/4.0 Distinction Grade.**
+> A fully deployed enterprise system currently operating at the Public Prosecution, automating case management and replacing legacy paper workflows.
+- 🏛 **Core System:** Built a comprehensive desktop dashboard for staff to manage criminal circuits, cases, and lawyer assignments.
+- 📱 **Lawyer App:** Developed a secure mobile application for lawyers to track and receive their case assignments in real-time.
+- 🎓 **Achievement:** Deployed in production & Achieved a 4.0/4.0 Distinction Grade.
 
-## ✈️ Zarda Travel Corporate Portal & CMS
+## 🏢 Nitaq Ecosystem (SaaS Startup)
+**Lead Developer & Architect** — `Flutter` • `Riverpod` • `Supabase`  
+
+> A comprehensive, production-ready B2B SaaS platform for enterprise HR and attendance management, featuring role-based access and strict tenant isolation.
+- 📱 **Employee App:** Mobile attendance with real-time **Geofencing**, leave requests, and self-service features.
+- 💻 **Business & Admin Portals:** Responsive web dashboards for HR management, live KPIs, audit trails, and multi-tenant subscription limits.
+- 🏗 **Architecture:** Engineered with a shared `nitaq_core` library to ensure seamless code reusability across 3 distinct applications.
+
+## ✈️ Zarda Travel Corporate Portal & CMS (Live)
 **Frontend & Backend Developer** — `Vue.js` • `Supabase`  
 
-> Developed a dynamic web platform and a custom Content Management System (CMS) for a leading travel agency. Digitized marketing operations, enabling instant offer updates and dynamic content management.
+> A dynamic web platform and custom Content Management System (CMS) tailored for a leading travel agency.
+- 🌍 **User Portal:** Modern interface for browsing travel packages and services.
+- ⚙️ **Custom CMS:** Secure dashboard for the marketing team to update offers dynamically and manage content instantly without technical friction.
 
-## 🎓 AFAQ – Educational Marketplace Ecosystem
+## 📍 "Aroudi" - Hyper-Local Discount Ecosystem (Startup)
+**Lead Developer** — `Flutter` • `Supabase (PostGIS)`  
+
+> A location-based platform utilizing Clean Architecture and geo-fencing technology to connect users with nearby store discounts.
+- 🧩 **Complete Suite:** Engineered a synchronized ecosystem consisting of a **User Mobile App**, a **Merchant Web Dashboard**, and a **Master Admin Panel**.
+
+## 🎓 AFAQ – Offline Education Marketplace (Startup)
 **Lead Developer & Architect** — `Flutter` • `Web Technologies`  
 
-> A multi-sided marketplace connecting students, institutes, and freelance tutors. Engineered synchronized apps and dashboards for seamless real-time interaction.
-
-## 📍 "Aroudi" - Hyper-Local Discount Ecosystem
-**Mobile Developer** — `Flutter` • `Supabase (PostGIS)`  
-
-> A location-based discount platform utilizing Clean Architecture and geo-fencing technology to show users deals within their vicinity.
+> A multi-sided marketplace bridging the gap between students and physical educational institutes/offline courses.
+- 🧩 **Complete Suite:** Developed a unified ecosystem featuring a **Student App**, an **Institute Management Web Panel**, and a **Central Admin Dashboard** for real-time interaction.
 
 ---
 
