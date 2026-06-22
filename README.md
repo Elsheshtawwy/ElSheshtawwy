@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://media.tenor.com/HMjB83uXNMAAAAAj/typing-cat.gif" width="150" />
+<img src="https://media.tenor.com/HMjB83uXNMAAAAAj/typing-cat.gif" width="120" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+There!+I+am+Badr+Elsheshtawy;Software+Engineer+%7C+Flutter+Specialist;Building+High-Performance+Mobile+Apps;Backed+by+Solid+Enterprise+Architectures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Badr+Elsheshtawy+%F0%9F%91%8B;Software+Engineer+%7C+Flutter+Specialist;Cross-Platform+%E2%86%92+Native-Feeling+Apps;Clean+Architecture+%7C+Scalable+Systems" alt="Typing SVG" />
 
-<h3>🚀 Turning Coffee Into Scalable Code & Native-Feeling Apps</h3>
+<br/>
 
 <p>
   <a href="mailto:badrelsistawy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-badrelsistawy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="[LinkedIn Profile Link]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
@@ -16,113 +16,91 @@
   <a href="https://www.chess.com/member/Badr-El-sheshtawy">
     <img src="https://img.shields.io/badge/Chess.com-Challenge%20Me-769656?style=for-the-badge&logo=chess&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Based%20In-Benghazi,%20Libya-FF8C00?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Based%20In-Benghazi,%20Libya-FF8C00?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
-I am a **Software Engineer specializing in high-performance Flutter applications**, backed by solid enterprise backend architectures (`.NET Core` & `Laravel`). I build robust, scalable mobile and desktop systems that people actually enjoy using—and I fix the bugs I create along the way. 😎
+Software Engineer focused on **high-performance Flutter applications**, backed by solid enterprise backends in `.NET Core` and `Laravel`. I build systems that are maintainable, scalable, and pleasant to work with—for both users and the engineers who inherit the codebase.
 
-When I'm not deep into Clean Architecture, arguing with the compiler, or troubleshooting random Windows errors, you can find me cheering for **Real Madrid** ⚽👑.
+When I'm not deep in Clean Architecture, you'll find me plotting my next move on the chessboard ♟️ or cheering for **Real Madrid** ⚽.
 
-**Fun Fact:** If you ever notice a sudden drop in my GitHub commits, don't panic—I haven't stopped coding. I'm just deeply invested in analyzing my next move on the chessboard! ♟️  
-**Think you have what it takes? [Challenge me to a game on Chess.com (Badr El-sheshtawy)](https://www.chess.com/member/Badr-El-sheshtawy) 🔥**
+| | |
+|---|---|
+| 🎯 **Primary Focus** | Cross-platform Flutter apps that feel genuinely native |
+| 🏗 **Architecture** | Clean Architecture & SOLID — because future-me deserves clean code |
+| ⚙️ **Full Stack** | Seamlessly connecting polished UIs to powerful backend systems |
+| 📍 **Location** | Benghazi, Libya — open to remote opportunities |
 
-### 🔹 What I Do Best
-- 🎯 **Mobile Development (Primary Focus):** Delivering smooth, cross-platform Flutter apps that feel native.
-- 🏗 **Clean Architecture:** Building maintainable systems because future-me deserves a break.
-- ⚙️ **End-to-End Systems:** Bridging beautiful UIs with powerful backend logics and REST APIs.
+> **Think you can beat me? [Challenge me on Chess.com](https://www.chess.com/member/Badr-El-sheshtawy) 🔥**
 
 ---
 
-# 🛠 Core Tech Stack
+## 🛠 Tech Stack
 
-### 📱 Mobile Development
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/GetX-FF5722?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-1C1E26?style=for-the-badge&logo=flutter&logoColor=58A6FF)
+![GetX](https://img.shields.io/badge/GetX-FF5722?style=for-the-badge&logo=databricks&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🌐 Frontend Web
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+### 🌐 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### ⚙️ Backend & APIs
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
 
 ### 💾 Databases & Infrastructure
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🧩 Engineering Philosophy
 
-## ⚖️ Public Prosecution Automation System (Live)
-**Full Stack Developer (Graduation Project)** — `Flutter (Mobile & Windows)` • `ASP.NET Core Web API` • `SQL Server`  
+> *"Clean Architecture first. SOLID principles always. Vibe coding? Strictly reserved for 3 AM weekend side-projects."*
 
-> A fully deployed enterprise system currently operating at the Public Prosecution, automating case management and replacing legacy paper workflows.
-- 🏛 **Core System:** Built a comprehensive desktop dashboard for staff to manage criminal circuits, cases, and lawyer assignments.
-- 📱 **Lawyer App:** Developed a secure mobile application for lawyers to track and receive their case assignments in real-time.
-- 🎓 **Achievement:** Deployed in production & Achieved a 4.0/4.0 Distinction Grade.
-
-## 🏢 Nitaq Ecosystem (SaaS Startup)
-**Lead Developer & Architect** — `Flutter` • `Riverpod` • `Supabase`  
-
-> A comprehensive, production-ready B2B SaaS platform for enterprise HR and attendance management, featuring role-based access and strict tenant isolation.
-- 📱 **Employee App:** Mobile attendance with real-time **Geofencing**, leave requests, and self-service features.
-- 💻 **Business & Admin Portals:** Responsive web dashboards for HR management, live KPIs, audit trails, and multi-tenant subscription limits.
-- 🏗 **Architecture:** Engineered with a shared `nitaq_core` library to ensure seamless code reusability across 3 distinct applications.
-
-## ✈️ Zarda Travel Corporate Portal & CMS (Live)
-**Frontend & Backend Developer** — `Vue.js` • `Supabase`  
-
-> A dynamic web platform and custom Content Management System (CMS) tailored for a leading travel agency.
-- 🌍 **User Portal:** Modern interface for browsing travel packages and services.
-- ⚙️ **Custom CMS:** Secure dashboard for the marketing team to update offers dynamically and manage content instantly without technical friction.
-
-## 📍 "Aroudi" - Hyper-Local Discount Ecosystem (Startup)
-**Lead Developer** — `Flutter` • `Supabase (PostGIS)`  
-
-> A location-based platform utilizing Clean Architecture and geo-fencing technology to connect users with nearby store discounts.
-- 🧩 **Complete Suite:** Engineered a synchronized ecosystem consisting of a **User Mobile App**, a **Merchant Web Dashboard**, and a **Master Admin Panel**.
-
-## 🎓 AFAQ – Offline Education Marketplace (Startup)
-**Lead Developer & Architect** — `Flutter` • `Web Technologies`  
-
-> A multi-sided marketplace bridging the gap between students and physical educational institutes/offline courses.
-- 🧩 **Complete Suite:** Developed a unified ecosystem featuring a **Student App**, an **Institute Management Web Panel**, and a **Central Admin Dashboard** for real-time interaction.
+```
+Architecture Before Code  →  Strong foundations prevent headaches later
+Maintainable > Clever     →  Code is read far more often than it's written
+End-to-End Ownership      →  From UI pixel to database query, I own the quality
+```
 
 ---
 
-# 🧩 Engineering Philosophy
+## 📊 GitHub Analytics
 
-> *"I strictly follow Clean Architecture and SOLID principles. 'Vibe Coding' is exclusively reserved for 3 AM weekend side-projects. "*
-
-- **Architecture Before Code:** Strong foundations prevent headaches later.  
-- **Maintainable Code:** Future-proof solutions > quick hacks.  
-- **Coffee is a valid data type:** At least, it should be.
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsheshtawwy&theme=tokyonight" alt="Profile Details" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+</div>
 
 ---
 
-<h1 align="center">🐍 GitHub Contribution Snake</h1>
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<br>
-
-# 📊 GitHub Analytics
+---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elsheshtawwy&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-<br>
-
-<div align="center">
-### Checkmate bugs and write clean code. Let's build something awesome! 
+  <sub>Checkmate bugs. Write clean code. Build things that matter.</sub>
 </div>
