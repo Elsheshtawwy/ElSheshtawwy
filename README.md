@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Badr+Elsheshtawy;Flutter+Developer+%7C+Founder%2C+Ignitix" alt="Typing SVG" />
+# Hi, I'm Badr Elsheshtawy 👋
 
-<br/>
+### Flutter Developer
+
+Building scalable, production-ready mobile applications with a focus on clean architecture, maintainability, and great user experiences.
 
 <p>
   <a href="mailto:badrelsistawy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[LinkedIn Profile Link]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.chess.com/member/badr_elsheshtawy">
-    <img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Benghazi,%20Libya-FF8C00?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 </div>
@@ -23,38 +24,63 @@
 
 ## About Me
 
-Flutter developer and founder of **Ignitix**. I build clean, scalable mobile apps backed by `.NET Core` and `Laravel`, with an emphasis on maintainable architecture over quick hacks.
+I'm a Flutter developer passionate about building scalable and maintainable mobile applications.
 
-Off the clock: Real Madrid ⚽ and chess ♟️
+I enjoy designing clean architectures, creating reusable systems, and writing code that's easy to extend and maintain. My primary focus is Flutter, but I also work with backend technologies when needed.
 
-> ♟️ My opponents don't lose — they just discover creative new ways to resign. **[Find out for yourself.](https://www.chess.com/member/badr_elsheshtawy)**
+Outside of software, you'll usually find me watching Real Madrid or playing chess.
+
+> ♟️ *I write code during the day and blunder queens at night.*  
+> Challenge me on **Chess.com**.
 
 ---
 
-## Tech Stack
+## What I Work With
 
-**Mobile**
+### Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-1C1E26?style=flat-square&logo=flutter&logoColor=58A6FF)
-![BLoC](https://img.shields.io/badge/BLoC-000000?style=flat-square&logo=databricks&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-FF5722?style=flat-square)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+- Flutter
+- Dart
+- Riverpod
+- BLoC
+- Clean Architecture
+- Offline-First Applications
 
-**Backend & Web**
+### Backend
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+- ASP.NET Core
+- Laravel
+- REST APIs
 
-**Databases**
+### Databases
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+- SQL Server
+- PostgreSQL
+- Firebase
+- Supabase
+
+### Tools
+
+- Git
+- GitHub Actions
+- Figma
+- Postman
+
+---
+
+## Featured Work
+
+### ⚖️ Public Prosecution Management System
+
+A digital judicial workflow system developed in collaboration with the Ministry of Justice for the Benghazi Public Prosecution.
+
+**Tech:** Flutter • ASP.NET Core • SQL Server
+
+---
+
+### 📱 Solo Group
+
+A production Flutter application built using Feature-First Architecture with a strong focus on scalability and maintainability.
 
 ---
 
@@ -62,14 +88,20 @@ Off the clock: Real Madrid ⚽ and chess ♟️
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elsheshtawwy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsheshtawwy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elsheshtawwy&theme=tokyonight&hide_border=true"/>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Elsheshtawwy/Elsheshtawwy/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
