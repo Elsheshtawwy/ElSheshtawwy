@@ -68,22 +68,6 @@ Outside of software, you'll usually find me watching Real Madrid or playing ches
 
 ---
 
-## Featured Work
-
-### ⚖️ Public Prosecution Management System
-
-A digital judicial workflow system developed in collaboration with the Ministry of Justice for the Benghazi Public Prosecution.
-
-**Tech:** Flutter • ASP.NET Core • SQL Server
-
----
-
-### 📱 Solo Group
-
-A production Flutter application built using Feature-First Architecture with a strong focus on scalability and maintainability.
-
----
-
 ## GitHub Stats
 
 <div align="center">
